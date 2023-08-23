@@ -25,11 +25,11 @@ The project utilizes a dataset containing advertising budgets and corresponding 
 
 ## Exploratory Data Analysis (EDA)
 EDA is performed to understand the relationships between sales and advertising budgets, visualize trends, and uncover insights about the dataset.
+## 
+<img width="932" alt="Screenshot 2023-08-23 at 5 27 51 AM" src="https://github.com/Baci-Ak/Advertising-Sales-Analysis-and-Prediction-using-Machine-Learning/assets/134199508/b60e5cb4-e2a2-44f6-8824-77838a6af523">
 
-<img width="932" alt="Screenshot 2023-08-23 at 5 27 51 AM" src="https://github.com/Baci-Ak/Advertising-Sales-Prediction-using-Machine-Learning/assets/134199508/3d64cc51-6848-4dbc-aad6-d484f59be03d">
-
-
-<img width="931" alt="Screenshot 2023-08-23 at 5 31 29 AM" src="https://github.com/Baci-Ak/Advertising-Sales-Prediction-using-Machine-Learning/assets/134199508/4c4d2a53-e7b3-42f6-a971-a15f45ae7d6f">
+##
+<img width="931" alt="Screenshot 2023-08-23 at 5 31 29 AM" src="https://github.com/Baci-Ak/Advertising-Sales-Analysis-and-Prediction-using-Machine-Learning/assets/134199508/eb6c1b51-1ae9-484d-9f3b-9478333a6e7f">
 
 
 ## Machine Learning Model Building
