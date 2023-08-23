@@ -53,7 +53,6 @@ Based on the analysis, recommendations are provided for optimizing advertising b
 
 ## Getting Started
 1. Clone the repository.
-2. Install required dependencies listed in `requirements.txt`.
 3. Run the Jupyter notebooks in the specified order to follow the project's flow.
 
 ## Contributing
