@@ -47,7 +47,7 @@ Based on the analysis, recommendations are provided for optimizing advertising b
 ## Project Files
 - **Data_Understanding_and_Preparation.ipynb:** Notebook for loading and preprocessing the dataset.
 - **EDA.ipynb:** Notebook for exploratory data analysis and visualizations.
-- **Model_Building.ipynb:** Notebook for building and evaluating machine learning models.
+- **Machine_Learning_Model_Building.ipynb:** Notebook for building and evaluating machine learning models.
 - **Model_Performance_Interpretation_Report.doc:** Model Performance, Interpretation,findings and Recommendations.
 - **Project_Documentation.doc:** comprehensive overview of the project.
 
